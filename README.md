@@ -1,8 +1,12 @@
 ## Salary Prediction Model
 
-Problem: Employee/person ki salary predict karna based on 
+Problem: Predict  employee salary based on 
 features (experience, education, etc.)
 
-Approach: Linear Regression model use kiya
+Approach: Implemented a Linear Regression model to predict salary 
 
 Tech Stack: Python, Pandas, Scikit-learn, Matplotlib
+
+Key Steps: data loading and preprocessing using pandas
+Trained Linear Regression model using scikit-learn
+evaluated model performance using Rsquared score 
